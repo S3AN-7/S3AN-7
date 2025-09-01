@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Harshan Brar  
 
-I am a recent **Master of Software Engineering** graduate with a strong interest in machine learning, programming, and cloud technologies.  
+I am a recent **Master of Software Engineering & Information Technology** graduate with a strong interest in machine learning, programming, and cloud technologies.  
 
 I am passionate about building innovative solutions that push the boundaries of technology and make a real-world impact.  
 
