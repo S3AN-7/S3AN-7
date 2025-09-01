@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Harshan Brar  
 
+I am a healthcare professional and recent **Master of Software Engineering** graduate seeking to merge clinical expertise with advanced **AI** and **software solutions**.  
+
+I am passionate about leveraging **machine learning**, **programming**, and **cloud technologies** to create innovative healthcare solutions that enhance **patient care**.  
+
+---
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/harshan-brar) 
 <!--
 **S3AN-7/S3AN-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
